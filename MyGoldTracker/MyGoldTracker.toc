@@ -1,0 +1,8 @@
+## Interface: 100105
+## Title: My Gold Tracker
+## Notes: Tracks and displays gold gained and lost during a session.
+## Author: ChatTemplar
+## Version: 1.0
+## SavedVariables: MyGoldTrackerDB
+
+MyGoldTracker.lua
